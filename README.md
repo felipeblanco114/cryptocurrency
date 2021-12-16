@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+DEPENDENCIES
+
+antd @ant-design/icons react-redux @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
